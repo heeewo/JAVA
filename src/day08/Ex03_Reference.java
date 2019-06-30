@@ -1,7 +1,5 @@
 package day08;
 
-import day10.Ball;
-import day10.Kid;
 
 class Kid {
 	Kid(String name) {	this.name = name;	}
